@@ -70,21 +70,15 @@ go build main.go
 
 ## Support
 
-### \*\*Need to update support issue link
-
-Please [open an issue](https://) for support.
+Please [open an issue](https://github.com/jameszenartist/go-web-scraper/issues) for support.
 
 ## Contributing
 
-### \*\*Need to update pull request link
-
-Create a branch, add commits, and [open a pull request](https://).
+Create a branch, add commits, and [open a pull request](https://github.com/jameszenartist/go-web-scraper/pulls).
 
 ## License
 
-### \*\*Need to create license
-
-This project is licensed under the [MIT License](https://)
+This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
 ## Contact
 
